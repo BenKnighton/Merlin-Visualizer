@@ -3,5 +3,4 @@
 
 ![Screen Recording 2023-06-13 at 15 12 38](https://github.com/BenKnighton/Merlin-Visualizer/assets/131706686/61e049a6-59cb-4ed6-b739-397fa6ccda6d)
 
-
-![Merlin rotating](https://github.com/BenKnighton/Merlin-Visualizer/assets/131706686/e0ed51e2-1127-4e48-b2d5-ff04f6e00d37)
+![Merlin Rotating 2](https://github.com/BenKnighton/Merlin-Visualizer/assets/131706686/2b4cddb0-2fdc-408c-ac2e-349fa4a5aceb)
